@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi there 👋 I'm Sampreet Anilbabu Naik, a Full-Stack Engineer! I'm passionate about turning ideas into rich, attractive, and user-centric mobile and web applications.
+🔭 I’m currently working on scalable web applications and modern cloud architecture.<br>👯 I’m looking to collaborate on open-source full-stack projects, developer tools, and AI integrations.<br>🤝 I’m looking for help with advanced distributed systems and best practices in cloud-native deployment.<br>🌱 I’m currently learning WebAssembly and advanced system design patterns.<br>💬 Ask me about JavaScript/TypeScript, React/Next.js/Angular, Node.js, Python, SQL/NoSQL, and CI/CD pipelines.<br>⚡ Fun fact: I spend way more time configuring my portfolio themes than I’d like to admit.
 
 
 ## 🌐 Socials:
